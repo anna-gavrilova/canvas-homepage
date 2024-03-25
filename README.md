@@ -3,7 +3,7 @@ The idea for this app was born just to solve my personal pain point: as a mixed-
 
 So were the traditional website constructors.
 
-So I have decided to brush off those react skills (despite being Software Dev for 5 years, I've basically never engaged with ui).
+So I have decided to brush off those react skills (despite being Software Dev for quite a bit, I've basically never engaged with ui).
 
 The idea of this is to make a highly customizable collage-like website builder. Think tumblr but with a canvas.
 
