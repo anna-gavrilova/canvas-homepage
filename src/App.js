@@ -21,7 +21,7 @@ function App() {
 
   
   return (
-    <div>
+    <>
       <button onClick={() => setIsEditing(!isEditing)}> Toggle Edit </button>
       {/* // Stage - is a div wrapper
       // Layer - is an actual 2d canvas element, so you can have several layers inside the stage
@@ -45,7 +45,7 @@ function App() {
         </Layer>
 
       </Stage>
-    </div>
+    </>
   );
 }
 
